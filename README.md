@@ -19,7 +19,7 @@ Provided the following assessments:
 
 2. Used input statements to retrieve customer weather preferences, then used those preferences to identify potential travel destinations and nearby hotels. 
 
-![Travel Destinations for Customer Weather Preference (70-75 degrees)](vacation_search/WeatherPy_vacation_map3.PNG)
+![Travel Destinations for Customer Weather Preference (70-75 degrees)](WeatherPy_vacation_map3.png)
 
 3. Used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
 
