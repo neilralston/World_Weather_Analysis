@@ -1,7 +1,9 @@
 # WeatherPy with Python APIs (Module 6)
 
 [Link to Jupyter Notebook Deliverable 1 code](Weather_Database.ipynb)
+
 [Link to Jupyter Notebook Deliverable 2 code](vacation_search.ipynb)
+
 [Link to Jupyter Notebook Deliverable 3 code](vacation_Itinerary.ipynb)
 
 ## Overview of WeatherPy Vacation Travel Analysis
